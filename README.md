@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎👋, I'm Hithesh M R</h1>
-<h3 align="center">A passionate Data Science and Machine learning Student</h3>
+<h3 align="center">A passionate Data Science and Machine Learning Student</h3>
 <h4 align="center">Pursuing M. Tech in Computational and Data Science @ NITK Surathkal</h4>
 
 - 🔭 I’m currently working on **Audio Classification using Neural Network**
