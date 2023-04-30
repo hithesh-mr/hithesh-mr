@@ -23,3 +23,5 @@
 
 ![Hithesh's github stats](https://github-readme-stats.vercel.app/api?username=hithesh-mr&show_icons=true&theme=blue-green)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hithesh-mr&theme=dark&hide_border=true"/>
+
