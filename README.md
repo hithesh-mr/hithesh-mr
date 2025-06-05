@@ -10,7 +10,7 @@
 ### 📚 Research Publication
 - **First Author**, ["From Pixels to Prognosis: Exploring from UNet to Segment Anything in Mammogram Image Processing for Tumor Segmentation"](https://ieeexplore.ieee.org/document/10626911)  
   *Published in IEEE Xplore*  
-  *DOI: [10.1109/ICACCS61045.2024.10541466](https://doi.org/10.1109/ICACCS61045.2024.10541466)*
+  *DOI: [10.1109/CONIT61985.2024.10626911]([https://doi.org/10.1109/ICACCS61045.2024.10541466](https://ieeexplore.ieee.org/document/10626911))*
 
 - 🔭 I'm currently working on **AI Agents for solving Real-World Business Problems**
 
