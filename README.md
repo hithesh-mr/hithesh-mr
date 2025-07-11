@@ -47,7 +47,7 @@
 ### 🧠 Certifications
 - 🧰 **IBM**: Apache Hadoop Developer  
 - 🔢 **MathWorks**: Machine Learning & MATLAB Onramps  
-- ☁️ **AWS**: Certified AI Practitioner
+- ☁️ **AWS**: Certified AI Practitioner - Upskilling
 
 ---
 
