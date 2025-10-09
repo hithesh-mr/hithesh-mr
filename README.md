@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎👋, I'm Hithesh M R</h1>
-<h3 align="center">Associate Data Scientist @ Gramener (A Straive Company)</h3>
+<h3 align="center">Data Scientist @ Gramener (A Straive Company)</h3>
 <h4 align="center">Crafting GenAI-Powered Solutions for Business Automation</h4>
 
 ---
