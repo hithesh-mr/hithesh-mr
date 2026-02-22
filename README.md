@@ -1,93 +1,100 @@
-<h1 align="center">Hi 😎👋, I'm Hithesh M R</h1>
-<h3 align="center">Data Scientist @ Gramener (A Straive Company)</h3>
-<h4 align="center">Crafting GenAI-Powered Solutions for Business Automation</h4>
+<h1 align="center">Hi, I'm Hithesh M R</h1>
+<h3 align="center">Data Scientist - AI Engineer @ <a href="https://www.4flow.com/">4flow</a></h3>
+<h4 align="center">GenAI | RAG | Agentic AI | End-to-End ML Systems</h4>
 
 ---
 
-### 🎓 Education
+### Education
 - **M.Tech in Computational and Data Science**  
-  *NITK Surathkal (2022 - 2024)* — *Graduated with Distinction*
+  <a href="https://www.nitk.ac.in/">NITK Surathkal</a> (2022 – 2024) — Graduated with Distinction  
 - **B.Tech in Mechanical Engineering**  
-  *NIE Mysore (2017 - 2021)*
+  <a href="https://nie.ac.in/">NIE Mysore</a> (2017 – 2021)
 
 ---
 
-### 📚 Research Publication
-- **First Author**, [*From Pixels to Prognosis: Exploring from UNet to Segment Anything in Mammogram Image Processing for Tumor Segmentation*](https://ieeexplore.ieee.org/document/10626911)  
-  *Published at IEEE CONIT 2024*  
-  DOI: [10.1109/CONIT61985.2024.10626911](https://doi.org/10.1109/CONIT61985.2024.10626911)
+### Experience
+
+#### Data Scientist – AI Engineer  
+**<a href="https://www.4flow.com/">4flow</a>** | Nov 2025 – Present | Bengaluru, India  
+
+- Building GenAI-powered business solutions using RAG, LLMs, and agentic workflows  
+- Developing scalable AI systems for enterprise automation and analytics  
+- Working across cloud platforms, APIs, and production-grade deployments  
 
 ---
 
-### 💼 Current Focus
-- 🔭 Building **AI Agents** to tackle business problems using **RAG, LLMs, and Agentic AI**
-- 🚦 Developing solutions for **Traffic Forecasting, Time Management**, and **Financial Document Search**
-- 📄 Working with **PostgreSQL (pgvector)**, **OpenAI API**, **LangChain**, and **Cloud Platforms**
+#### Associate Data Scientist – AI Engineer  
+**<a href="https://gramener.com/">Gramener (A Straive Company)</a>** | Sep 2024 – Nov 2025 | Bengaluru, India  
+
+**PGIM Dealio — SEC EDGAR Analytics Platform**
+- Built FastAPI endpoints and Pydantic schemas for SEC filings and derived analytics (HFA, CAP, COMP)
+- Designed a cache-first ingestion system with normalization and quarter/year rollover handling
+- Integrated Azure OpenAI for metric mapping, prompt workflows, and response caching
+- Developed Azure Functions for background jobs with secure authentication and Blob/Table logging
+- Created a lightweight JS + Tailwind UI and generated PDF/Word reports using ReportLab, PyMuPDF, Jinja2
+
+**Malaysia Traffic Flow Visualization (Penang Island POC)**
+- Built predictive models for traffic speed and delay forecasting
+- Processed geospatial data using Turf.js, Mapbox GL JS, and ArcGIS
+- Developed Flask APIs to serve data to interactive dashboards
+- Enabled real-time visualization of traffic flow and predictions
+
+**RAG Framework for Financial Document Querying**
+- Implemented pgvector-based vector search with PostgreSQL (3072-d embeddings)
+- Designed fusion ranking methods (RRF, LCRF, CombSUM) for improved retrieval accuracy
+- Built APIs for ingestion, embedding, and query workflows
+- Supported multi-cloud deployment and developer tool integrations
 
 ---
 
-### 💡 Areas of Expertise
-- GenAI, RAG & Agentic AI Systems
-- Road Traffic Flow Analysis and Prediction
-- Automated Timesheet Systems (Jira + Azure OpenAI)
-- Medical Imaging (Tumor Segmentation with SAM/U-Net)
-- Knowledge Graphs and Vector Search
-- Geospatial Visualization (Mapbox, Turf.js)
-- End-to-End AI/ML System Design & Deployment
+### Research Publication
+**First Author**  
+*From Pixels to Prognosis: Exploring from UNet to Segment Anything in Mammogram Image Processing for Tumor Segmentation*  
+IEEE CONIT 2024  
+
+- 📄 <a href="https://ieeexplore.ieee.org/document/10626911">View on IEEE Xplore</a>  
+- 🔗 <a href="https://doi.org/10.1109/CONIT61985.2024.10626911">DOI: 10.1109/CONIT61985.2024.10626911</a>
 
 ---
 
-### 👨‍🔬 Professional Highlights
-- 📄 Published researcher in medical AI with IEEE
-- 🔍 Designed rank fusion strategies for vector-based document retrieval (RRF, LCRF, CombSUM)
-- 🔧 Built multi-cloud deployable ML systems using Python, Flask, and REST APIs
+### Current Focus
+- AI agents for business problem solving  
+- Traffic forecasting and time-series systems  
+- Financial document search with RAG  
+- PostgreSQL (pgvector), OpenAI API, LangChain, cloud deployments  
 
 ---
 
-### 🧠 Certifications
-- 🧰 **IBM**: Apache Hadoop Developer  
-- 🔢 **MathWorks**: Machine Learning & MATLAB Onramps  
-- ☁️ **AWS**: Certified AI Practitioner - Upskilling
+### Areas of Expertise
+- GenAI, RAG, Agentic AI systems  
+- Vector search and knowledge graphs  
+- Geospatial analytics and visualization  
+- Medical image segmentation (U-Net, SAM)  
+- End-to-end ML system design and deployment  
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/hithesh-mr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/hithesh-m-r" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/03hitheshmr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/_hithesh03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-  </a>
-</p>
+### Certifications
+- IBM – Apache Hadoop Developer  
+- MathWorks – Machine Learning & MATLAB Onramps  
+- AWS – Certified AI Practitioner (Upskilling)  
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hithesh-mr&show_icons=true&theme=blue-green" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hithesh-mr&theme=dark&hide_border=true"/>
@@ -95,6 +102,8 @@
 
 ---
 
-📫 **Email**: hitheshmr@gmail.com  
-🌐 **Portfolio**: [portfolio-hithesh-mr.vercel.app](https://portfolio-hithesh-mr.vercel.app)  
-🔗 **GitHub**: [github.com/hithesh-mr](https://github.com/hithesh-mr)
+### Connect with Me
+- <a href="https://linkedin.com/in/hithesh-mr">LinkedIn</a>  
+- <a href="https://portfolio-hithesh-mr.vercel.app">Portfolio</a>  
+- <a href="https://github.com/hithesh-mr">GitHub</a>  
+- <a href="mailto:hitheshmr@gmail.com">Email</a>  
